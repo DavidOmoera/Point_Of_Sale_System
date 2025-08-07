@@ -1,1 +1,1 @@
-A fully integrate POS system using Java
+A fully integrated Point Of Sale System using Java
